@@ -1,0 +1,16 @@
+
+TITLE:GAGU'S 3D BATHROOM
+
+this is a complete program which
+creates 3d bathroom in which you 
+can move around, all four walls and 
+with flooring excellent texture quality
+i had worked a long on it(abt 1 month)
+please give me 5 votes for this
+it includes all basic features of directx
+e.g. it includes everything mipmaping,texture
+or transperanvy by using gif/bmp/jpg file
+i hope u like it
+if any suggessions are there then plz
+mail me at 
+gaurangvyas@hotmail.com
